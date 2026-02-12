@@ -1,5 +1,3 @@
-# live working deploying link
-
 
 # 🤖 AI Job Application Agent
 
@@ -63,7 +61,5 @@ Built with **Python**, **Playwright**, and **Streamlit**.
     - The app will open in your browser.
     - **Search Jobs**: Click the button to find jobs.
     - **Apply**: Click "Apply to All" to start the application process.
-
-> **Note**: On the first run, you might need to manually solve a CAPTCHA or enter an OTP in the opened Chrome window. The agent will remember your session for next time.
 
 
